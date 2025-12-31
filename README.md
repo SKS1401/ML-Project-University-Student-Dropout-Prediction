@@ -1,4 +1,4 @@
-# Complete Project Overview: University Student Dropout Prediction
+#  University Student Dropout Prediction
 ## Predicting Academic Risk using Logistic Regression
 
 # 🎯 Project Overview
